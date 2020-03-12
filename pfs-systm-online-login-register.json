@@ -1,0 +1,5 @@
+{
+  "__file": "wp_block",
+  "title": "PFS - SystmOnline - Login/Register",
+  "content": "<!-- wp:nhsblocks/panel1 {\"className\":\"is-style-panel-with-label\"} -->\n<div class=\"wp-block-nhsblocks-panel1 nhsuk-panel is-style-panel-with-label\"><h3>SystmOnline</h3><div class=\"paneltext\"><!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://systmonline.tpp-uk.com/\" title=\"www.patientaccess.com\" target=\"_blank\" rel=\"noreferrer noopener\">Login to Online Services</a></div>\n<!-- /wp:button -->\n\n<!-- wp:button {\"backgroundColor\":\"nhs_pink\"} -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-background has-nhs-pink-background-color\" href=\"https://systmonline.tpp-uk.com/2/SignUp\" title=\"https://app.patientaccess.com/registration/create\" target=\"_blank\" rel=\"noreferrer noopener\">Register for Online Services</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons --></div></div>\n<!-- /wp:nhsblocks/panel1 -->"
+}

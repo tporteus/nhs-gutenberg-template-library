@@ -1,0 +1,5 @@
+{
+  "__file": "wp_block",
+  "title": "PFS - SystmOnline - Help",
+  "content": "<!-- wp:nhsblocks/card1 {\"className\":\"is-style-urgent\"} -->\n<div class=\"wp-block-nhsblocks-card1 nhsuk-grid-column-width nhsuk-care-card nhsuk-care-card--type is-style-urgent\"><div class=\"nhsuk-care-card__heading-container\"><h3 class=\"nhsuk-care-card__heading\"><span role=\"text\"><span class=\"nhsuk-u-visually-hidden\">Non-urgent advice: </span><span class=\"nhsuk-care-card__heading-text\">Having Problems?</span></span></h3><span class=\"nhsuk-care-card__arrow\" aria-hidden=\"true\"></span></div><div class=\"nhsuk-care-card__content\"><p><a href=\"https://www.nhs.uk/using-the-nhs/nhs-services/gps/gp-online-services/\">Online Services @ NHS.UK</a></p><p><a href=\"https://systmonline.tpp-uk.com/2/help/help.html\">SystmOnline Support</a></p></div></div>\n<!-- /wp:nhsblocks/card1 -->"
+}
